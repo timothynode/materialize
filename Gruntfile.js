@@ -63,7 +63,6 @@ module.exports = function(grunt) {
               "js/animation.js",
               "js/velocity.min.js",
               "js/hammer.min.js",
-              "js/jquery.hammer.js",
               "js/collapsible.js",
               "js/dropdown.js",
               "js/leanModal.js",
@@ -82,8 +81,6 @@ module.exports = function(grunt) {
               "js/buttons.js",
               "js/transitions.js",
               "js/scrollFire.js",
-              "js/date_picker/picker.js",
-              "js/date_picker/picker.date.js",
              ],
         // the location of the resulting JS file
         dest: 'dist/js/materialize.js'
@@ -94,7 +91,6 @@ module.exports = function(grunt) {
               "js/animation.js",
               "js/velocity.min.js",
               "js/hammer.min.js",
-              "js/jquery.hammer.js",
               "js/collapsible.js",
               "js/dropdown.js",
               "js/leanModal.js",
@@ -113,8 +109,6 @@ module.exports = function(grunt) {
               "js/buttons.js",
               "js/transitions.js",
               "js/scrollFire.js",
-              "js/date_picker/picker.js",
-              "js/date_picker/picker.date.js",
              ],
         // the location of the resulting JS file
         dest: 'temp/js/materialize.js'
